@@ -16,8 +16,11 @@ This is a daily 9-5 planner.
 
 ## Screenshots / Links
 ![Screenshot of project](./Assets/Planner.JPG)
+https://github.com/TristanM225/EventCalander 
+
 Links to my deployed page! 
 
+https://tristanm225.github.io/EventCalander/
 
 
 
